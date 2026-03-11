@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #a8edea, #fed6e3);
+        }
+
+        .about-section {
+            width: 70%;
+            margin: 80px auto;
+            background-color: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #555;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+
+        .btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .btn:hover {
+            background-color: #45a049;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="about-section">
+        <h1>About Us</h1>
+
+        <p>
+            Welcome to our website! We are passionate about creating 
+            beautiful and simple web experiences. Our goal is to provide 
+            high-quality services and ensure customer satisfaction.
+        </p>
+
+        <p>
+            We believe in creativity, innovation, and dedication. 
+            Thank you for visiting our page and supporting our work.
+        </p>
+
+        <a href="#" class="btn">Learn More</a>
+    </div>
+
+</body>
+</html>
